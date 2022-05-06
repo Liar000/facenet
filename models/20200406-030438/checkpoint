@@ -1,0 +1,4 @@
+model_checkpoint_path: "/content/drive/My Drive/facenet/model/facenet/20200406-030438/model-20200406-030438.ckpt-4162"
+all_model_checkpoint_paths: "/content/drive/My Drive/facenet/model/facenet/20200406-030438/model-20200406-030438.ckpt-3959"
+all_model_checkpoint_paths: "/content/drive/My Drive/facenet/model/facenet/20200406-030438/model-20200406-030438.ckpt-4060"
+all_model_checkpoint_paths: "/content/drive/My Drive/facenet/model/facenet/20200406-030438/model-20200406-030438.ckpt-4162"

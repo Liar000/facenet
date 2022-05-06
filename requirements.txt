@@ -1,0 +1,10 @@
+tensorflow==1.7
+scipy==1.2.1
+numpy==1.16.2
+scikit-learn==0.24.2
+opencv-python
+h5py
+matplotlib
+Pillow
+requests
+psutil
